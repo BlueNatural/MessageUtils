@@ -7,7 +7,7 @@ import com.messageutils.bluenatural.NaturalLog.PluginStatus;
 
 import net.md_5.bungee.api.ChatColor;
 
-public class MessageUtils {
+public class MessageUtils extends JavaPlugin {
 	public static Plugin plugin;
 	public static Titles title;
 	public static Bossbar bossbar;
